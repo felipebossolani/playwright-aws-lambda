@@ -15,12 +15,12 @@ Para testes locais, instale o Playwright com o seguinte comando:
     npx playwright install
 
 
-## Teste local
+# Teste local
 
 Para executar um teste local, basta executar o comando abaixo (testado com node 16):
 node test.js
 
-## Publicando na AWS Lambda
+# Publicando na AWS Lambda
 
 A maneira mais rápida de publicar é zipar o conteúdo (com a pasta node_modules) e fazer o upload no seu lambda. 
 Há maneiras de fazer por linha de comando ou ferramentas de terceiros mas que não é o foco aqui.
