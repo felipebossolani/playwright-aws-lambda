@@ -1,0 +1,13 @@
+# Ignore node_modules
+**/node_modules
+
+# Ignore any zip files
+*.zip
+
+node_modules
+coverage
+dist
+yarn-error.log
+log.txt
+package-lock.json
+package.json
