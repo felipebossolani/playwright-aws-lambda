@@ -18,7 +18,8 @@ Para testes locais, instale o Playwright com o seguinte comando:
 # Teste local
 
 Para executar um teste local, basta executar o comando abaixo (testado com node 16):
-node test.js
+
+    node test.js
 
 # Publicando na AWS Lambda
 
